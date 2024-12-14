@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # basqueteiros-quarkus-tp1
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
@@ -70,3 +71,7 @@ Create your first JPA entity
 Easily start your Reactive RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+=======
+# backend-lojatenis-tp2
+Projeto de Topicos 2
+>>>>>>> 8124affde503cb6a063029a4d4121f86ab488dae
